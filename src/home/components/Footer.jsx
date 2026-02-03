@@ -64,22 +64,22 @@ export class Footer extends Component {
           <ul className='flex gap-x-6 items-center sm:flex-col sm:gap-y-6 sm:justify-center sm:h-full md:flex-row md:items-start md:mt-2'>
             <li>
               <a href="#" className='transition-opacity duration-300 hover:opacity-[0.75]'>
-                <img src="/src/assets/imgs/social/facebook.svg" alt="" aria-hidden="true"/>
+                <img src="/social/facebook.svg" alt="" aria-hidden="true"/>
               </a>
             </li>
             <li>
               <a href="#" className='transition-opacity duration-300 hover:opacity-[0.75]'>
-                <img src="/src/assets/imgs/social/twitter.svg" alt="" aria-hidden="true"/>
+                <img src="/social/twitter.svg" alt="" aria-hidden="true"/>
               </a>
             </li>
             <li>
               <a href="#" className='transition-opacity duration-300 hover:opacity-[0.75]'>
-                <img src="/src/assets/imgs/social/pinterest.svg" alt="" aria-hidden="true"/>
+                <img src="/social/pinterest.svg" alt="" aria-hidden="true"/>
               </a>
             </li>
             <li>
               <a href="#" className='transition-opacity duration-300 hover:opacity-[0.75]'>
-                <img src="/src/assets/imgs/social/instagram.svg" alt="" aria-hidden="true"/>
+                <img src="/social/instagram.svg" alt="" aria-hidden="true"/>
               </a>
             </li>
           </ul>
