@@ -60,7 +60,7 @@ export class Footer extends Component {
           </ul>
         </div>
 
-        <div>
+        <div className='inline-block'>
           <ul className='flex gap-x-6 items-center sm:flex-col sm:gap-y-6 sm:justify-center sm:h-full md:flex-row md:items-start md:mt-2'>
             <li>
               <a href="#" className='transition-opacity duration-300 hover:opacity-[0.75]'>
